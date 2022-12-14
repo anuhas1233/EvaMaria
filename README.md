@@ -6,7 +6,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HansakaAnuhas/EvaMaria)
 
-## Deploy To VPS
+## Deploy to VPS
 
 ```git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
