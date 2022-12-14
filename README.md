@@ -29,9 +29,10 @@
 ## Deploy to VPS
 
 ```
+Edit info.py with variables as given below then run bot.
+
 git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
 pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
 python3 bot.py
 ```
